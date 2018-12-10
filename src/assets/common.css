@@ -1,0 +1,21 @@
+#head{
+  height:50px;
+  background:#a00303;
+  text-align:center;
+  line-height:50px;
+  color:white;
+  font-weight:bolder;
+  position:fixed;
+  width:100%
+}
+.headBox{
+  height:50px
+}
+.back{
+  font-size:30px;
+  position:absolute;
+  left:30px;
+  top:-5px;
+  transform:scale(1,1.5);
+  cursor:pointer
+}
